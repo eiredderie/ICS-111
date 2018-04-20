@@ -68,4 +68,4 @@ int rolldice(void){
     return worksum;
 }
 
-//11-16-2018
+//11-16-2015
